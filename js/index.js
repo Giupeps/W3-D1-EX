@@ -1,2 +1,3 @@
-alert('Usa il pop up per dare dei messaggi');
-window.alert('Sto studiando JS');
+alert('HAI VINTO UN IPHONE 14');
+window.alert('EH VOLEVI');
+alert('Ecco invece degli animali')
